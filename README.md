@@ -23,14 +23,22 @@ With the rapid growth of social media and online platforms, large volumes of uns
 
 ---
 
-## Installation
+## Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
-
-Run the complete pipeline demo:
+## Run sentiment and emotion analysis
 ```bash
-python experiments/demo_nrclex_pipeline.py
+python nrc_sentiment_analyzer.py
 ```
+## Run visualization script
+```bash
+python visualization.py
+```
+## If your pipeline depends on data loading
+```bash
+python data_loader.py
+```
+
+
