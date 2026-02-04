@@ -41,4 +41,16 @@ python visualization.py
 python data_loader.py
 ```
 
+## Citation
+
+If you use this code or find this work helpful in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{awais2023sentiment,
+  title={Sentiment and Emotion Analysis on Consumer Review using NRCLex},
+  author={Awais, Muhammad and Durrani, Sara},
+  booktitle={2nd International Conference on Engineering, Natural and Social Sciences},
+  pages={166--171},
+  year={2023}
+}
 
