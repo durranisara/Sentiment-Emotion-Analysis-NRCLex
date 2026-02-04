@@ -27,7 +27,7 @@ With the rapid growth of social media and online platforms, large volumes of uns
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 
 Run the complete pipeline demo:
