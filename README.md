@@ -8,7 +8,7 @@ Muhammad Awais, Sara Durrani
 ## Paper
 
 The paper associated with this repository is available  
-[Sentiment and Emotion Analysis on Consumer Review using NRCLex](http://as-proceeding.com/)
+[Sentiment and Emotion Analysis on Consumer Review using NRCLex](https://as-proceeding.com/index.php/icensos/article/view/514)
 
 ---
 
