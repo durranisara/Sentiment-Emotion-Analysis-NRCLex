@@ -5,6 +5,10 @@ This repository contains the implementation of sentiment and emotion analysis us
 **Sentiment and Emotion Analysis on Consumer Review using NRCLex**  
 Muhammad Awais, Sara Durrani  
 2nd International Conference on Engineering, Natural and Social Sciences (ICENSOS 2023), Konya, Turkey.
+## Paper
+
+The paper associated with this repository is available  
+[Sentiment and Emotion Analysis on Consumer Review using NRCLex](http://as-proceeding.com/)
 
 ---
 
